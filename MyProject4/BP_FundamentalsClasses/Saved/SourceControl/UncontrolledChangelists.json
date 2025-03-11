@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/gokuldaskv/Documents/Unreal Projects/MyProject4/BP_FundamentalsClasses/Content/NEW/NewMap.umap",
+				"/Users/gokuldaskv/Documents/Unreal Projects/MyProject4/BP_FundamentalsClasses/Content/NEW/Project_ii.umap",
+				"/Users/gokuldaskv/Documents/Unreal Projects/MyProject4/BP_FundamentalsClasses/Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_D2_R.uasset",
+				"/Users/gokuldaskv/Documents/Unreal Projects/MyProject4/BP_FundamentalsClasses/Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_N.uasset"
+			]
+		}
+	]
+}
